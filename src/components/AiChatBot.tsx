@@ -44,12 +44,12 @@ const FAQ_DATA: FAQItem[] = [
   {
     category: "🎬 Video Tutorials",
     question: "📺 Flipkart Auto-Listing Kaise Kaam Karta Hai? (Live Demo Video)",
-    answer: "Neeche diye gaye video play player par click karke direct live demo screen recording dekhiye aur pure automatic listing process ko live samjhiye.\n\n• **Highlights:** 1-Click auto form pre-fill simulation, dimension optimization, low weight threshold trigger and AI titles generation.\n• **Access Terms:** Permanent access, is video me list huye templates lifetime permanent use ke liye hain!\n\nPLAY_VIDEO_URL:https://res.cloudinary.com/dutdmkrhc/video/upload/v1781288334/InShot_20260525_212334170_de2rkp_kdf2ho.mp4"
+    answer: "Neeche diye gaye video play player par click karke direct live demo screen recording dekhiye aur pure automatic listing process ko live samjhiye.\n\n• **Highlights:** 1-Click auto form pre-fill simulation, dimension optimization, low weight threshold trigger and AI titles generation.\n• **Access Terms:** Permanent access, is video me list huye templates lifetime permanent use ke liye hain!\n\nPLAY_VIDEO_URL:https://res.cloudinary.com/ddcbu8j1p/video/upload/v1781892192/VID-20260526-WA0006_oz0kys.mp4"
   },
   {
     category: "🎬 Video Tutorials",
-    question: "📺 Flipkart Auto-Listing Tool Demo & Process Video Kaise Dekhein?",
-    answer: "Yeh hai hamara Flipkart auto-listing extension tool ka highly-converting complete demonstration video tutorial. Isme pricing calculations aur parameters config ko beautifully show kiya gya h.\n\n• **Tool Value:** One-time investment, solid permanent workflow booster, absolutely LIFETIME FREE system access!\n\nPLAY_VIDEO_URL:https://res.cloudinary.com/ddcbu8j1p/video/upload/v1781892192/VID-20260526-WA0006_oz0kys.mp4"
+    question: "📺 Meesho Auto-Listing Kaise Kaam Karta Hai? (Live Demo Video)",
+    answer: "Yeh hai hamara Meesho auto-listing extension tool ka highly-converting complete demonstration video tutorial. Isme pricing calculations aur parameters config ko beautifully show kiya gya h.\n\n• **Tool Value:** One-time investment, solid permanent workflow booster, absolutely LIFETIME FREE system access!\n\nPLAY_VIDEO_URL:https://res.cloudinary.com/dutdmkrhc/video/upload/v1781288334/InShot_20260525_212334170_de2rkp_kdf2ho.mp4"
   },
   {
     category: "🎬 Video Tutorials",
