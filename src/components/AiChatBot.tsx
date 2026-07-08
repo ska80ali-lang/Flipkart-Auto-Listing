@@ -626,7 +626,7 @@ export default function AiChatBot({ isStickyVisible = false, isOpen, setIsOpen }
             <div className="p-3 px-4 bg-[#0F172A] border-t border-[#334155] flex items-center justify-between gap-3">
               {/* Highlightive Pulsing BUY NOW Button */}
               <motion.a 
-                href="https://superprofile.bio/vp/flipkart-auto-listing---low-shipping-tool?checkout=true"
+                href="https://superprofile.bio/vp/6a1877f06a9ede0013a0d853?checkout=true"
                 target="_blank" 
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.05 }}

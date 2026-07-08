@@ -6,7 +6,7 @@ import { Testimonial, VideoReview, FAQItem, ScreenshotSlide, FeatureItem } from 
 export const CONFIG = {
   // Global CTA Redirect URL
   // Just change this once to update all buttons on the page!
-  ctaRedirectUrl: "https://superprofile.bio/vp/flipkart-auto-listing---low-shipping-tool?checkout=true", 
+  ctaRedirectUrl: "https://superprofile.bio/vp/6a1877f06a9ede0013a0d853?checkout=true", 
 
   // Support details
   whatsappNumber: "6295429762",
