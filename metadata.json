@@ -1,0 +1,6 @@
+{
+  "name": "Flipkart Auto Listing Landing Page",
+  "description": "Premium high-converting single product digital tool landing page for Flipkart Auto Listing + Low Shipping Trick.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
